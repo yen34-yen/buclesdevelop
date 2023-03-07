@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    color: rgb(146, 68, 68);
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*estilos para form**/
+form{
+    text-align: center;
+    background-color: rgb(247, 215, 215);
+    border: black 1px dashed;
+    margin: 100px 100px 0 100px;
+    padding: 5px;
+}
+/*estilos para input (cajas para ingresar el salario)*/
+input{
+    width: 40%;
+    height: 6%;
+}
+/*estilos para label,suelo1 y sueldo2*/
+label{
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(94, 21, 36);
+    padding: 10px;
+}
+.resultados{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-family: 'Rampart One', cursive;    
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+    border: black 5px double;
+    border-radius: 80px 20px;
+    box-shadow: 0 0 15px 0 black;
+
+}
+td{
+    font-size: 30px;
+}
+th{
+    font-size: 30px;
+}
+table{
+  /* centrar vertical y horizontalmente */
+    position: absolute;
+    top: 50%;
+    left: 36%;
+    margin: 5px 10px 0 0px;
+    color: brown;
+}
